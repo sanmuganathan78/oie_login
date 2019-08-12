@@ -1,0 +1,19 @@
+/*
+
+author Ramesh 
+custom css 
+
+ */
+ 
+.alert
+	{
+		position: absolute;
+		right: 11px;
+		width: 36%;
+		top: 30px;
+		border-radius: 4px;
+		font-size: 14px;
+		height: 43px;
+		padding: 8px;
+	}
+
